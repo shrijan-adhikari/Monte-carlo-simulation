@@ -112,7 +112,7 @@ Make sure you have Python 3.8 or higher installed on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/monte-carlo-simulator.git
+git clone https://github.com/shrijan-adhikari/Monte-carlo-simulation.git
 cd monte-carlo-simulator
 ```
 
